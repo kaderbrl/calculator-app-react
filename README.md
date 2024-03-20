@@ -4,6 +4,10 @@
 
 <img align="center" src="./public/calculator-app.png" alt="Calculator App with React" title="Calculator App" />
 
+## 💻 Live Demo
+
+Check the live demo here 👉 [Demo](https://calculator-app-kaderbrl.vercel.app/) 
+
 ## 📋 Instructions
 
 First clone this repository.
